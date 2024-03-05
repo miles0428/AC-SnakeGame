@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE)
 
 ### Author
 
-[Yu-Cheng Chung](ycchung@ntnu.edu.tw)
+Yu-Cheng Chung
